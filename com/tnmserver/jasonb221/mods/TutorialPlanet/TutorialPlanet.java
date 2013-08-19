@@ -13,7 +13,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.network.NetworkMod;
 
 
-@Mod(modid = "jasonb221_Tutorial_Planet", name = "Tutorial Planet", version = "1.0.0")
+@Mod(modid = "jasonb221_Tutorial_Planet", name = "Tutorial Planet", version = "1.0.0", dependencies="required-after:GalacticraftCore")
 @NetworkMod(serverSideRequired=false, clientSideRequired=true)
 public class TutorialPlanet {
 	
