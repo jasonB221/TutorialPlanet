@@ -4,8 +4,6 @@ import micdoodle8.mods.galacticraft.api.GalacticraftRegistry;
 import net.minecraftforge.common.Configuration;
 import net.minecraftforge.common.DimensionManager;
 
-import com.tnmserver.jasonb221.mods.spacex.CommonProxy;
-
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.SidedProxy;
